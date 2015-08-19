@@ -12,7 +12,9 @@ Use bootstrap to render it
 Copy/include the code in your functions.php file and Register the widget from your functions.php
 
 // Register and load the widget
+
 function pat_load_widget() {
 	register_widget('CatImage');
 }
+
 add_action( 'widgets_init', 'pat_load_widget' );
