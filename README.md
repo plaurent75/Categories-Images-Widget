@@ -1,5 +1,6 @@
 # Categories-Images-Widget
 Categories Images Widget
+http://www.patricelaurent.net/portfolio/plugin/widget-categorie-image/
 
 Simple Widget for the plugin Categories Images :
 https://wordpress.org/plugins/categories-images/
