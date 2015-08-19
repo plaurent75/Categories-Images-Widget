@@ -1,4 +1,10 @@
 <?php
+/**
+* By Patrice LAURENT
+* http://www.patricelaurent.net/
+* Informations : http://www.patricelaurent.net/portfolio/plugin/widget-categorie-image/
+*/
+
 class CatImage extends WP_Widget
 {
 	function CatImage(){
